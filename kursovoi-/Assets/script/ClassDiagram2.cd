@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="buttonManage" Collapsed="true">
+    <Position X="12.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA=</HashCode>
+      <FileName>Assets\buttonManage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="buttonmenu" Collapsed="true">
+    <Position X="14.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\buttonmenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="dpsUp" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\dpsUp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="heal" Collapsed="true">
+    <Position X="11" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\heal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="healthBar" Collapsed="true">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAEAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Assets\healthBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JoystickPlayerExample" Collapsed="true">
+    <Position X="14.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAEAAAAAAAAAAAAAQAAAAAAAAAEAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Examples\JoystickPlayerExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="JoystickSetterExample" Collapsed="true">
+    <Position X="16.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAAAAAAAAAAAACAAAAAQAQAQAACAAEIAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Examples\JoystickSetterExample.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Joystick" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABACIACRICAAEACBAASICAAEAADAKAQQCCAEAIAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Base\Joystick.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DynamicJoystick" Collapsed="true">
+    <Position X="9.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAACAACAIAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\DynamicJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FixedJoystick" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\FixedJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FloatingJoystick" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\FloatingJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VariableJoystick" Collapsed="true">
+    <Position X="7" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAKAACAIAgAAAAAAAAAAAAAAAgAAACIAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bulletDirection" Collapsed="true">
+    <Position X="11" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAgEAAAAAAAACAAEAAAQAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\script\bulletDirection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="buttonScript" Collapsed="true">
+    <Position X="16.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAEAAAAIAAAAIAAABAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\buttonScript.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="deathEnemy" Collapsed="true">
+    <Position X="18" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAACAAgAAAAAAAAAAAQAAAAAAAAAAgAAAAAAg=</HashCode>
+      <FileName>Assets\script\deathEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="destroyPopadanie" Collapsed="true">
+    <Position X="11" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\destroyPopadanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EnemyLogic" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAAAAAEIAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\EnemyLogic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="fire" Collapsed="true">
+    <Position X="16.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASBAACAAAEAAAAAAAAgQAAQAAAAAgAgARAIAAAAAAA=</HashCode>
+      <FileName>Assets\script\fire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FlagCapture" Collapsed="true">
+    <Position X="18" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACBAAAAAAQAAAAAAABAAEAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Assets\script\FlagCapture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="move_character" Collapsed="true">
+    <Position X="18" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAiAEAAAEAAAAAAIAAAAAAwAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\script\move_character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Player_health" Collapsed="true">
+    <Position X="11" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEwAAAIIACAAgAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\script\Player_health.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="spawnerEnemy" Collapsed="true">
+    <Position X="12.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAACAAiAAAAAAABAgAAAAAAAAAAAAAAAAAACAAAI=</HashCode>
+      <FileName>Assets\spawnerEnemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WorldTimer" Collapsed="true">
+    <Position X="14.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\WorldTimer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="AxisOptions" Collapsed="true">
+    <Position X="18" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAgAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Base\Joystick.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="JoystickType" Collapsed="true">
+    <Position X="16.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAEAAAAAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>Assets\Joystick Pack\Scripts\Joysticks\VariableJoystick.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
